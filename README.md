@@ -1,4 +1,4 @@
-# dns_trigger
+# dns_track.sh
 A simple script that will perform DNS queries vs a domain and if there is a change between script runs will print them on screen
 
 ## OPTIONS
