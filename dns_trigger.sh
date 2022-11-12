@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_PATH=$HOME"/dns_track/"
+BASE_PATH=$HOME"/dns_trigger/"
 DOMAIN=''
 NAMESERVER=''
 TYPE='ANY
